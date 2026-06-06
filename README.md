@@ -41,12 +41,7 @@
 ### 📊 GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LuanCarlosCar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCarlosCar&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Luancarloscar/Luancarloscar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCarlosCar&layout=compact&theme=dracula"/>
 </div>
 
 ---
