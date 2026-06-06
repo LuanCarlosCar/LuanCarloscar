@@ -48,8 +48,3 @@
 
 ---
 
-### 🐍 Atividade
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Luancarloscar/Luancarloscar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
