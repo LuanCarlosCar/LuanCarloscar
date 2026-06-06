@@ -38,18 +38,18 @@
 
 ---
 
-### 📊 GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCarlosCar&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ### 🔗 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luan-carlos-a3a08a123/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+</div>
+
+---
+
+### 🐍 Atividade
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Luancarloscar/Luancarloscar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
